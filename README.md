@@ -11,7 +11,7 @@ Allows users to download the QR code<br>
 Built with Node.js, JavaScript, and a QR code library
 
 <h6>How to Use-</h6>🤷‍♀️
-Enter a URL in the input field.<br>Click the "Generate QR Code" button.<br>A QR code will be displayed, which can be scanned or downloaded.
+Enter a URL in the input field.<br>Click the Enter.<br>A QR code will be displayed, which can be scanned or downloaded.
 
 
 
